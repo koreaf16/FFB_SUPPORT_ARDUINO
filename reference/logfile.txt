@@ -1,0 +1,16 @@
+Enumerated Joystick : vJoy Device
+Supported Effects : 
+   - Constant
+   - Ramp Force
+   - Square Wave
+   - Sine Wave
+   - Triangle Wave
+   - Sawtooth Up Wave
+   - Sawtooth Down Wave
+   - Spring
+   - Damper
+   - Inertia
+   - Friction
+   - CustomForce
+
+Creating effects for vJoy Device
